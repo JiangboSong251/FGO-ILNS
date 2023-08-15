@@ -29,4 +29,4 @@ extended Kalman filter (EKF) and federal Kalman filter (FKF), as
 well as the state-of-the-art optimization-based algorithm ORBSLAM3, our proposed FGO-ILNS leads in accuracy and
 robustness. This system provides a reference scheme for global
 large-scale underwater positioning of AUVs.
-!(image)(https://github.com/JiangboSong251/FGO-ILNS/blob/main/FGOILNS.png)
+![FGOILNS](https://github.com/JiangboSong251/FGO-ILNS/blob/main/FGOILNS.png)
